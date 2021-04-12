@@ -1,0 +1,22 @@
+{
+  "submissionUrl": "https://wix.com/_something/submit2",
+  "jobs": [
+    {
+      "id": "j123",
+      "data": [
+        [
+          { "value": { "boolean": true } },
+          { "value": { "number": 1 } },
+          {
+            "formula": {
+              "andkurios": [
+                { "reference": "A1" },
+                { "reference": "B1" }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  ]
+}
